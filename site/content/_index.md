@@ -1,7 +1,7 @@
 ---
 title: "Gezondheidscentrum De Grens"
 subtitle: Van fysiotherapie tot osteopathie tot accupunctuur
-image: /img/home-jumbotron.jpg
+image: /img/hands.jpg
 blurb:
     heading: Introductie
     text: "Gezondheidscentrum De Grens is een groepspraktijk gelegen in het centrum van Hamont. Ons gezondheidscentrum bestaat uit een team van zeven therapeuten, die elk hun specialisme hebben. Van fysiotherapie en osteopathie tot acupunctuur, voor alle behandelingen staat GC De Grens tot uw beschikking."
