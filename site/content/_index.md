@@ -1,10 +1,10 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Gezondheidscentrum De Grens"
+subtitle: Van fysiotherapie tot osteopathie tot accupunctuur
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Introductie
+    text: "Gezondheidscentrum De Grens is een groepspraktijk gelegen in het centrum van Hamont. Ons gezondheidscentrum bestaat uit een team van zeven therapeuten, die elk hun specialisme hebben. Van fysiotherapie en osteopathie tot acupunctuur, voor alle behandelingen staat GC De Grens tot uw beschikking."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
